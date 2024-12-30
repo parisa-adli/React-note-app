@@ -119,4 +119,8 @@
   .note-container {
     width: 100%;
   }
+  .note-header {
+    flex-direction: column;
+    padding-bottom: 1rem;
+  }
 }
